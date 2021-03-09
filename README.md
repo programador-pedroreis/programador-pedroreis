@@ -20,8 +20,9 @@ HTML5 | CSS3 | JavaScript | WordPress | Bootstrap | NPM | Git | Design responsiv
 
 ###### Em andamento
 
-- [JavaScript Completo ES6 - ORIGAMID](https://www.origamid.com/curso/javascript-completo-es6) 💻 - Aprendendo a ter uma compreensão total da linguagem, dos seus principais métodos e da sua sintaxe. 
-O foco é no aprendizado da linguagem, mas o principal local de aplicação será na web, através de manipulações do DOM e requisições via Fetch API.
+- [JavaScript Completo ES6 - ORIGAMID](https://www.origamid.com/curso/javascript-completo-es6) 💻 - Aprendendo a ter uma compreensão total da linguagem, dos seus principais métodos e da sua sintaxe. O foco é no aprendizado da linguagem, mas o principal local de aplicação será na web, através de manipulações do DOM e requisições via Fetch API.
 
-- [LaunchBase - ROCKETSEAT](https://www.origamid.com/curso/javascript-completo-es6) 💻 - Estou fazendo esse curso pra dar uma atualizada no que há de novo...No LaunchBase a gente vai do zero cobrindo todos os principais fundamentos do desenvolvimento web, desde o back-end até o front-end, incluindo assuntos como Node.js, CSS, JavaScript, MVC, SQL, ORMs, entre outras coisas.
+- [Jornada Ignite - ROCKETSEAT](https://rocketseat.com.br/) 💻 - O Ignite é um programa de aceleração para devs, focado em preparar profissionais completos(as) para o mercado, treinando skills técnicas e comportamentais de forma intensiva e prática. 
+
+- [LaunchBase - ROCKETSEAT](https://rocketseat.com.br/) 💻 - Estou fazendo esse curso pra dar uma atualizada no que há de novo...No LaunchBase a gente vai do zero cobrindo todos os principais fundamentos do desenvolvimento web, desde o back-end até o front-end, incluindo assuntos como Node.js, CSS, JavaScript, MVC, SQL, ORMs, entre outras coisas.
 
